@@ -1,5 +1,5 @@
 ---
-description: We follows CNCF events code of conduct.
+description: We follow CNCF events code of conduct.
 ---
 
 # osDFS' Events Code of Conduct
